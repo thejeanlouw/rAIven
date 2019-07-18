@@ -1,2 +1,2 @@
-# rAIven
-Framework For Interconnected, Queriable, and Tech Independent Models
+# skeletIO
+Framework For Interconnected business
